@@ -725,25 +725,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 #EXTINF:-1 tvg-id="713" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png",PARAMOUNT NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2473" tvg-name="Blue Ant Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png",Rock Entertainment
-http://210.210.155.35/session/727b7aa8-6703-11ec-9eaf-b82a72d63267/dr9445/h/h16/01.m3u8
-http://rr1.dens.tv/h/h16/01.m3u8
+#EXTINF:0 tvg-id="rock.ent" tvg-name="" tvg-logo="https://i.postimg.cc/287nz3hd/Round-Photo-Sep192022-222833.png",ROCK ENTERTAINMENT http://210.210.155.35/session/503304f8-dd96-11eb-82e0-c81f66f89318/dr9445/h/h16/index10.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="", ROCK Entertainment
-http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+#EXTINF:0 tvg-id="rock.ext" tvg-name="" tvg-logo="https://i.postimg.cc/sxNxXdfr/Round-Photo-Sep192022-223206.png",ROCK EXTREME http://210.210.155.35/session/8b784618-dd96-11eb-82e0-c81f66f89318/dr9445/h/h15/index10.m3u8
 
-#EXTINF:-1 tvg-id="2474" tvg-name="Blue Ant Extreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/RockExtreme.png",Rock Extreme 
-http://210.210.155.35/session/c41b46b8-6703-11ec-9eaf-b82a72d63267/dr9445/h/h15/01.m3u8
-http://rr1.dens.tv/h/h15/01.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="", ROCK Extreme
-http://210.210.155.35/dr9445/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_H
 
 #EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/oe4Woe7.png",Star World
 https://nonton.site:8443/mustakim/mustakim/381
