@@ -725,10 +725,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 #EXTINF:-1 tvg-id="713" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png",PARAMOUNT NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
-#EXTINF:0 tvg-id="rock.ent" tvg-name="" tvg-logo="https://i.postimg.cc/287nz3hd/Round-Photo-Sep192022-222833.png",ROCK ENTERTAINMENT http://210.210.155.35/session/503304f8-dd96-11eb-82e0-c81f66f89318/dr9445/h/h16/index10.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",ROCK ENTERTAINMENT
+http://210.210.155.35/session/503304f8-dd96-11eb-82e0-c81f66f89318/dr9445/h/h16/index10.m3u8
 
-#EXTINF:0 tvg-id="rock.ext" tvg-name="" tvg-logo="https://i.postimg.cc/sxNxXdfr/Round-Photo-Sep192022-223206.png",ROCK EXTREME http://210.210.155.35/session/8b784618-dd96-11eb-82e0-c81f66f89318/dr9445/h/h15/index10.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", ROCK EXTREME
+http://210.210.155.35/session/8b784618-dd96-11eb-82e0-c81f66f89318/dr9445/h/h15/index10.m3u8
 
 #EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/oe4Woe7.png",Star World
 https://nonton.site:8443/mustakim/mustakim/381
