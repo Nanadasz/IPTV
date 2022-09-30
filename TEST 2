@@ -466,7 +466,7 @@ http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1  tvg-name="Sony Pix" tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/XvZArCU.png",Sony Pix
 http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
 
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="",Star Movies HD IN
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="https://i.imgur.com/AJbFTSr.png",Star Movies HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136629
 
 #EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png",Star Movies
