@@ -2,3 +2,20 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g7fktB1/venustv-dream-works.png", DREAMWORKS
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1  tvg-name="Sony Pix" tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/XvZArCU.png",Sony Pix
+http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
+
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="",Star Movies HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136629
+
+#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png",Star Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+http://iptv12k.com:35461/17501083101/524668/2289
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png",STAR MOVIES SELECT
+http://humiptv.live:8080//live/500757885/3356646354/98843.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="" group-title="India",Zee Cafe IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136588
