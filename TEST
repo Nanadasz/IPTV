@@ -65,17 +65,13 @@ http://meumd.com:80/Denise01/denise001/109543
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO+
 http://meumd.com:80/Denise01/denise001/109542
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOCARIBBEAN.png",HBO CARIBBEAN FHD
-http://megaott.cx:900/live/1504419863/3B7B8B28/195843.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOPLUS.png",HBO PLUS HD
 http://megaott.cx:900/live/1504419863/3B7B8B28/376189.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOFAMILY.png",HBO FAMILY FHD
-http://megaott.cx:900/live/1504419863/3B7B8B28/376188.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOSIGNATURE.png",HBO SIGNATURE HD
-http://megaott.cx:900/live/1504419863/3B7B8B28/376187.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOEAST.png",HBO EAST HD
-http://megaott.cx:900/live/1504419863/3B7B8B28/376186.m3u8
+
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOWEST.png",HBO WEST HD
 http://megaott.cx:900/live/1504419863/3B7B8B28/376185.m3u8
+
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO 2 HD
 http://megaott.cx:900/live/1504419863/3B7B8B28/376184.m3u8
+
+
