@@ -37,21 +37,45 @@ http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2899.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",SONY-MOVIE-CHANNEL
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2994.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAXX MORE MAXX
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2954.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX THRILLERMAX HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2955.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX OUTER MAX
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2956.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX MOVIEMAX
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2957.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX EAST
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2958.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX ACTION MAX EAST
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2959.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO+
 http://meumd.com:80/Denise01/denise001/109544
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO+
 http://meumd.com:80/Denise01/denise001/109543
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO+
 http://meumd.com:80/Denise01/denise001/109542
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOCARIBBEAN.png",HBO CARIBBEAN FHD
+http://megaott.cx:900/live/1504419863/3B7B8B28/195843.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOPLUS.png",HBO PLUS HD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376189.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOFAMILY.png",HBO FAMILY FHD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376188.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOSIGNATURE.png",HBO SIGNATURE HD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376187.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOEAST.png",HBO EAST HD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376186.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOWEST.png",HBO WEST HD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376185.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO 2 HD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376184.m3u8
