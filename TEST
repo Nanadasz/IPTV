@@ -39,13 +39,24 @@ http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 http://ye23.win/iptv/korea2021.php?id=arirang_1
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Arirang World
 http://ye23.win/iptv/korea2021.php?id=arirang_2
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC,https://stream.chmbc.co.kr/live/TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="Mnet,http://106.246.182.11:9981/stream/channelid/62
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+https://stream.chmbc.co.kr/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="Mnet
+http://106.246.182.11:9981/stream/channelid/62
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="KBS Drama
+http://119.197.107.139:9981/stream/channelid/85
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HALLMARK MOVIES & MYSTERIES HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2897.ts
 
