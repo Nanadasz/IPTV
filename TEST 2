@@ -811,12 +811,6 @@ https://rebrand.ly/ch5691r
 #http://linears-playback.astro.com.my/vsg/441ctXzsYeMEhss0P8qP7QXgXE0N5vjURkOk4brIxY4a70=I5Ju/dash-wv/jitp-linearwm/601/default_primary.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-#EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",ASTRO SUPERSPORTS 2 (A)
-#EXTVLCOPT:http-referrer=Referer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium124/index.m3u8?|Referer=https://streamservicehd.click/
-
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" tvg-id="",ASTRO SUPERSPORTS 2
 http://tvpanel.one:80/den9179/611carc/689878
 
@@ -824,19 +818,7 @@ http://tvpanel.one:80/den9179/611carc/689878
 http://ys-users.com:8080/promo5/5thpromotion/425440
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",ASTRO SUPERSPORTS 4
-http://tvpanel.one:80/den9179/611carc/689880
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-#EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",ASTRO SUPERSPORTS 3 (A)
-#EXTVLCOPT:http-referrer=Referer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium125/index.m3u8?|Referer=https://streamservicehd.click/
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-#EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",ASTRO SUPERSPORTS 4 (A)
-#EXTVLCOPT:http-referrer=Referer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium126/index.m3u8?|Referer=https://streamservicehd.click/
+http://ys-users.com:8080/promo5/5thpromotion/425441
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
