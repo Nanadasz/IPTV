@@ -5,8 +5,11 @@ http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsu
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",HBO East 
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323507
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",HNO West
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",HBO West
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323512
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",HBO 2
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323547
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",Anime Station
+http://propdsrv.com:80/hiu67his/z4rtomtl/100324
