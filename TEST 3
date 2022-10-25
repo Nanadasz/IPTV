@@ -1,8 +1,26 @@
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="", AEC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTEWNTp.png" tvg-id="",AEC
 http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",HBO East 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
+http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1647
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
+http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/219
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
+http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81676
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
+http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1647
+
+#EXTINF:-1 tvg-logo="https://ia803100.us.archive.org/2/items/HboEast/hbo%20east.png" tvg-id="",HBO East 
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323507
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",HBO West
