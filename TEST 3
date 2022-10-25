@@ -5,29 +5,36 @@ http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsu
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
-http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1647
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
-http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/219
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
-http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81676
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="",HBO
-http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1647
-
 #EXTINF:-1 tvg-logo="https://ia803100.us.archive.org/2/items/HboEast/hbo%20east.png" tvg-id="",HBO East 
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323507
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",HBO West
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/732.png" tvg-id="",HBO West
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323512
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",HBO 2
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png" tvg-id="",HBO 2
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323547
 
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png" tvg-id="",HBO 2 WEST
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/330188
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png" tvg-id="",HBO 2 WEST
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323548
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" tvg-id="",HBO PLUS WEST
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/330189
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" tvg-id="",HBO PLUS WEST
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323549
+
+#EXTINF:-1 tvg-logo="t" tvg-id="",HBO Signature
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/330190
+#EXTINF:-1 tvg-logo="t" tvg-id="",HBO Signature
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323550
+#EXTINF:-1 tvg-logo="t" tvg-id="",PARAMOUNT
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323288
+#EXTINF:-1 tvg-logo="t" tvg-id="",TNT West
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323260
+#EXTINF:-1 tvg-logo="t" tvg-id="",TNT West
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323586
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" tvg-id="",Anime Station
 http://propdsrv.com:80/hiu67his/z4rtomtl/100324
