@@ -38,12 +38,18 @@ http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323288
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323260
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/TNT.us.png" tvg-id="",TNT West
 http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323586
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
+#EXTINF:-1 tvg-logo="" tvg-id="",STARZ
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323277
+#EXTINF:-1 tvg-logo="" tvg-id="",STARZ
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323577
+#EXTINF:-1 tvg-logo="" tvg-id="",STARZ East
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323563
+#EXTINF:-1 tvg-logo="" tvg-id="",STARZ West
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323579
+#EXTINF:-1 tvg-logo="" tvg-id="",STARZ West
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323580
+#EXTINF:-1 tvg-logo="" tvg-id="",STARZ Comedy
+http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323276
 #EXTINF:-1 tvg-logo="" tvg-id="",
 #EXTINF:-1 tvg-logo="" tvg-id="",
 #EXTINF:-1 tvg-logo="" tvg-id="",
